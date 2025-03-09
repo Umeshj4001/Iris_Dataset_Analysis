@@ -14,8 +14,3 @@ This repository contains an advanced exploratory data analysis (EDA) of the IRIS
 - **Pair Plots**
 - **Violin Plots**
 - **Heatmaps (Correlation Matrix)**
-
-## Requirements
-To run this notebook, install the required libraries:
-```bash
-pip install numpy pandas matplotlib seaborn
